@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Pocket Summary",
+  "description": "GPT summarizer",
+  "version": "1.0",
+  "action": {
+    "default_popup": "./popup/popup.html",
+    "default_icon": "./images/brain.png"
+  }
+}
